@@ -1,0 +1,7 @@
+{
+  "name": "workmojo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
